@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukasrumpel
 - 👀 I’m interested in ham radio, electronics, building stuff.
-- 🌱 I’m currently studing mechanical engineering and mechatronics.
+- 🌱 I’m currently studing electrical engineering.
 
 "fundamental theorem of engineering : π ≈ e ≈ 3"
 
