@@ -1,5 +1,5 @@
 
-"fundamental theorem of engineering : π ≈ e ≈ 3"
+"Turning algorithms into gate-level reality"
 
 ## 🌐 Connectivity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukas_Rumpel-blue?style=flat&logo=linkedin)](www.linkedin.com/in/lukas-rumpel-70ba0a3a7)
